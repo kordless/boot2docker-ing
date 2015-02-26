@@ -215,8 +215,9 @@ Doing a hard restart will help (again, only do this if something is wrong):
 
 	boot2docker restart
 	$(boot2docker shellinit)
-	
-Finally, let's try to use docker:
+
+#### Testing it Out	
+Let's try to use docker:
 
 	docker run hello-world
 	
