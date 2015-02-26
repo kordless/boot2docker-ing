@@ -95,7 +95,7 @@ If you do have it installed, go ahead and update it:
 Now we have **brew** installed and updated, we need to install VirtualBox.
 
 #### Cask and VirtualBox
-[Cask](https://github.com/caskroom/homebrew-cask) is a worlflow based installer for applications running on OS X. You can install it using **brew**:
+[Cask](https://github.com/caskroom/homebrew-cask) is a workflow based installer for applications running on OS X. You can install it using **brew**:
 
 	brew install caskroom/cask/brew-cask
 
