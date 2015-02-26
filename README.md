@@ -10,14 +10,7 @@ This guide will walk you through installing **boot2docker**, **virtualbox**, and
 
 ### Prerequisites
 
-You need an OSX based machine and the will to type things on the command line.  Also, the following won't hurt:
-
-* VirtualBox
-* Brew
-* Docker
-
-I'm not going to link to these here because we'll cover installing them below.
-
+You need an OSX based machine and the will to type things on the command line.
 
 ### Video Walkthrough
 
