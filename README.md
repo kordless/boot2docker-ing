@@ -250,6 +250,6 @@ For more examples and ideas, visit:
 superman:boot2docker-ing kord$
 ```
 
-That's about it!  Do a pull request if you'd like more information included or find an error!
+That's about it!  Open an issue if find an error or do a pull request and add some stuff!
 
 Don't forget to signup for [GiantSwarm](https://giantswarm.io)!
