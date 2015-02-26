@@ -112,7 +112,7 @@ Simple!
 
     brew install boot2docker
 
-Wizardry happens. A beer appears. 🍺
+A bit of wizardry later, a beer appears. 🍺
 
 Now let's initialize the VM and start it:
 
