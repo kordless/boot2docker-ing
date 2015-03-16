@@ -1,8 +1,8 @@
 ## Getting Boot2Docker Going on OS X
 
-Interested in getting Docker going on OS X? Wondering how all that magic works? Tired of wandering around in tunnels?
+Interested in getting Docker going on OS X? Wondering how all that magic works? Tired of wandering around in tunnels when things go bad with the install?
 
-This guide will walk you through installing **boot2docker**, **virtualbox**, and **docker** on your Mac/OSX based machine. Alternately, you can just head on over to the [boot2docker site](http://boot2docker.io/) if you are feeling lucky.
+This guide will walk you through installing **boot2docker**, **virtualbox**, and **docker** on your Mac/OSX based machine using **brew** and **cask**. Alternately, you can just head on over to the [boot2docker site](http://boot2docker.io/) if you are feeling lucky.
 
 ![i have no recollection of this place](http://i.imgur.com/itIGzuv.jpg)
 
