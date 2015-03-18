@@ -10,7 +10,12 @@ This guide will walk you through installing **boot2docker**, **virtualbox**, and
 
 ### Prerequisites
 
-You need an OSX based machine and the will to type things on the command line.
+1. You need an OSX based machine and the will to type things on the command line.
+2. You need to have [Homebrew](http://brew.sh) installed.
+
+Homebrew is best installed by opening a terminal shell. From Spotlight type 'term' and hit enter.  In the terminal, type:
+
+    ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
 ### Video Walkthrough
 
