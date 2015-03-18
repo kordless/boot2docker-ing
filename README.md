@@ -1,12 +1,13 @@
 ## Getting Boot2Docker Going on OS X
 
 ### Table of Contents
-* Video 
-* Makefile Code
-* Quick Install
-* Step by Step Install
-* Testing
+* [Video](#video-walkthrough) 
+* [Makefile Code](#checkout-the-code)
+* [Quick Install](#quick-install)
+* [Step by Step Install](#step-by-step-install)
+* [Testing](#testing-docker-works)
 
+### Introduction
 Interested in getting Docker going on OS X? Wondering how all that magic works? Tired of wandering around in tunnels when things go bad with the install?
 
 This guide will walk you through installing **boot2docker**, **virtualbox**, and **docker** on your Mac/OSX based machine using **brew** and **cask**. Alternately, you can just head on over to the [boot2docker site](http://boot2docker.io/) and use their installer if you are feeling lucky.
