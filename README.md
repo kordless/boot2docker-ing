@@ -1,6 +1,8 @@
 ## Getting Boot2Docker Going on OS X
 
 ### Table of Contents
+* [Introduction](#introduction)
+* [Prerequisites](#prerequisites)
 * [Video](#video-walkthrough) 
 * [Makefile Code](#checkout-the-code)
 * [Quick Install Using Makefile](#quick-install)
@@ -22,8 +24,9 @@ Alternately, you can just head on over to the [boot2docker site](http://boot2doc
 
 1. You need an OSX based machine.
 2. A terminal shell open. To open a term, from Spotlight type 'term' and hit enter.
-2. You need to have [Homebrew](http://brew.sh) installed. Instructions [below]().
-3. You need to have [Cask] installed. Instructions [below]().
+3. You need to have [Homebrew](http://brew.sh) installed. Instructions [below](#install-homebrew).
+4. You need to have [VirtualBox](https://www.virtualbox.org/) installed. Instructions [below](#install-virtualbox).
+5. You need to have [Cask](http://caskroom.io) installed. Instructions [below](#install-cask).
 
 ### Video Walkthrough
 
@@ -84,7 +87,7 @@ If that fusses at you, we should take it one step at a time.
 
 Let's start by installing **brew**, an OS X package manager.
 
-#### Brew
+#### Install Brew
 Start out by checking if you have **brew** installed:
 
     superman:boot2docker-ing kord$ brew -v
@@ -100,12 +103,14 @@ If you do have it installed, go ahead and update it:
     
 Now we have **brew** installed and updated, we need to install VirtualBox.
 
-#### Cask and VirtualBox
+#### Install Cask
 [Cask](https://github.com/caskroom/homebrew-cask) is a workflow based installer for applications running on OS X. You can install it using **brew**:
 
 	brew install caskroom/cask/brew-cask
 
 Today was the first time I used it, and it's pretty slick.
+
+#### Install VirtualBox
 
 Now you can install VirtualBox with one line:
 
