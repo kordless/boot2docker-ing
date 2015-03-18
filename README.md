@@ -3,7 +3,7 @@
 ### Table of Contents
 * [Video](#video-walkthrough) 
 * [Makefile Code](#checkout-the-code)
-* [Quick Install](#quick-install)
+* [Quick Install Using Makefile](#quick-install)
 * [Step by Step Install](#one-step-at-a-time-install)
 * [Testing](#testing-docker-works)
 
