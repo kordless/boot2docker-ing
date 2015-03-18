@@ -7,7 +7,7 @@
 * [Makefile Code](#checkout-the-code)
 * [Quick Install Using Makefile](#quick-install)
 * [Step by Step Install](#one-step-at-a-time-install)
-* [Testing](#testing-docker-works)
+* [Testing](#testing)
 
 ### Introduction
 Interested in getting Docker going on OS X? Wondering how all that magic works? Tired of wandering around in tunnels when things go bad with the install?
