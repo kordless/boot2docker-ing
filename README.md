@@ -178,7 +178,9 @@ Finally, set **boot2docker** to automatically start after rebooting your machine
 
 	ln -sfv /usr/local/opt/boot2docker/*.plist ~/Library/LaunchAgents
 
-#### Testing Docker Works
+### Testing
+
+#### Check Docker Works
 [Docker](https://docker.io/) should have been installed with **boot2docker**, so let's try it out:
 
 	docker version
@@ -227,7 +229,7 @@ Doing a hard restart will help (again, only do this if something is wrong):
 	boot2docker restart
 	$(boot2docker shellinit)
 
-### Testing it Out	
+### Test Run a Container	
 Let's try to use docker:
 
 	docker run hello-world
