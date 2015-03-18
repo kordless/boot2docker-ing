@@ -24,7 +24,7 @@ Alternately, you can just head on over to the [boot2docker site](http://boot2doc
 
 1. You need an OSX based machine.
 2. A terminal shell open. To open a term, from Spotlight type 'term' and hit enter.
-3. You need to have [Homebrew](http://brew.sh) installed. Instructions [below](#install-homebrew).
+3. You need to have [Homebrew](http://brew.sh) installed. Instructions [below](#install-brew).
 4. You need to have [VirtualBox](https://www.virtualbox.org/) installed. Instructions [below](#install-virtualbox).
 5. You need to have [Cask](http://caskroom.io) installed. Instructions [below](#install-cask).
 
