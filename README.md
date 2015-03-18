@@ -18,12 +18,10 @@ This guide will walk you through installing **boot2docker**, **virtualbox**, and
 
 ### Prerequisites
 
-1. You need an OSX based machine and the will to type things on the command line.
-2. You need to have [Homebrew](http://brew.sh) installed.
-
-Homebrew is best installed by opening a terminal shell. From Spotlight type 'term' and hit enter.  In the terminal, type:
-
-    ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+1. You need an OSX based machine.
+2. A terminal shell open. To open a term, from Spotlight type 'term' and hit enter.
+2. You need to have [Homebrew](http://brew.sh) installed. Instructions [below]().
+3. You need to have [Cask] installed. Instructions [below]().
 
 ### Video Walkthrough
 
@@ -90,7 +88,7 @@ Start out by checking if you have **brew** installed:
     superman:boot2docker-ing kord$ brew -v
 	Homebrew 0.9.5
 
-If you don't have **brew** installed, you can do the following to install it:
+If you don't have **brew** installed, Homebrew is best installed by doing:
 
     ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
     
