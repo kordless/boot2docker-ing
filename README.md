@@ -4,7 +4,7 @@
 * [Video](#video-walkthrough) 
 * [Makefile Code](#checkout-the-code)
 * [Quick Install](#quick-install)
-* [Step by Step Install](#step-by-step-install)
+* [Step by Step Install](#one-step-at-a-time-install)
 * [Testing](#testing-docker-works)
 
 ### Introduction
