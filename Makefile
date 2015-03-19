@@ -10,12 +10,15 @@ brew-boot2docker:
 brew-virtualbox:
 	brew cask install virtualbox
 
+init:
+	boot2docker -v init
+
 hard-stop:
 	boot2docker delete
 
 hard-up: hard-stop up
 
-up: shellinit
+up: init shellinit
 	boot2docker up
 
 shellinit:
